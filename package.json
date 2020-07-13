@@ -10,6 +10,7 @@
   "repository": {
     "url": "http://coderthemes.com/codefox"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "license": "https://themeforest.net/licenses/standard",
   "devDependencies": {
     "browser-sync": "^2.26.7",
